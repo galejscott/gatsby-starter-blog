@@ -1,9 +1,9 @@
 ---
 title: Javascript(SOLID){
 date: "2019-08-13T17:08:32.169Z"
-description: Object Oriented Programming design principles};
+description: object oriented programming design principles};
 ---
-###Object Oriented Programming design principles};
+###object oriented programming (OOP) design principles};
 
 SOLID is an acronym for 5 important design principles when doing OOP. These 5 principles were introduced by Robert C. Martin (Uncle Bob), in his 2000 paper Design Principles and Design Patterns. The actual SOLID acronym was, however, identified later by Michael Feathers.
 
