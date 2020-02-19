@@ -1,8 +1,10 @@
 ---
 title: Lead me up the Rails path
 date: "2019-07-10T14:40:32.169Z"
-description: A helpful guide to how rails paths work
+description: a helpful guide to how rails paths work
 ---
+
+###a helpful guide to how rails paths work
 
 Rails is designed to be flexible; the result is that is usually a few ways to get the job done. Routes are a great example of this principle in a Rails app. I will review how to leverage built-in URL help methods instead of hard coding route paths in your app.
 

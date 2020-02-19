@@ -1,8 +1,10 @@
 ---
 title: puts "Hello World!"
 date: "2019-05-29T15:27:03.284Z"
-description: Popping my blogging cherry
+description: popping my blogging cherry
 ---
+
+###popping my blogging cherry
 
 Almost definitely a cliché? Or is it a right of passage every newly budding programmer has had to type? A first step into the world of programming and now blogging.
 I recently joined the newest cohort at Flatiron School in London. Where, in hindsight, I was not fully prepared for the challenges ahead of me when I walked through the door on day 1 a couple of weeks ago. So I want to share a couple of things I believe to be important when starting out in the world of programming.

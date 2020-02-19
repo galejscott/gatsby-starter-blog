@@ -4,6 +4,8 @@ date: "2019-07-31T10:15:32.169Z"
 description: when communicating with the server};
 ---
 
+###when communicating with the server};
+
 Good morning, we’ve made the jump to javascript, and coming from the happiness of ruby. Javascript sadly, doesn’t have the same loving touch; but she is a lot more exciting, (once she’s up and running).
 A key difference with javascript is asynchronicity. User interfaces are asynchronous by nature, and spend most of their time waiting for user input to interrupt the event loop and trigger event handlers. This is important in JavaScript, because it is a very natural fit for user interface code, and very beneficial to performance on the server.
 
