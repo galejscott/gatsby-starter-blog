@@ -1,7 +1,7 @@
 ---
 title: puts "Hello World!"
 date: "2019-05-29T15:27:03.284Z"
-description: "My first blog post"
+description: Popping my blogging cherry
 ---
 
 Almost definitely a cliché? Or is it a right of passage every newly budding programmer has had to type? A first step into the world of programming and now blogging.
